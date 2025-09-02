@@ -3,6 +3,7 @@
 <h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
   Teknik Informatika</h1>
   
+<br>
 <h3>Divisi Riset & Pengembangan (R&D)</h3>
 <p>🌱 Wadah kreasi, inovasi, dan kolaborasi bagi mahasiswa Teknik Informatika 🌱</p>
 
