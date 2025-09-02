@@ -1,5 +1,3 @@
-Selamat datang di Rndhimaf, tim Riset dan Pengembangan dari Himpunan Mahasiswa Informatika Universitas Islam Balitar. Kami adalah wadah bagi mahasiswa yang ingin berinovasi dan berkontribusi melalui teknologi.
-
 <div align="center">
 <img src="https://www.google.com/search?q=https://placehold.co/200x200/cccccc/333333%3Ftext%3DLogo%2BHIMAPRODI" alt="Logo HIMAPRODI Teknik Informatika" width="150" height="150"/>
 <h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
