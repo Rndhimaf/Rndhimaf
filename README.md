@@ -2,7 +2,7 @@ Selamat datang di Rndhimaf, tim Riset dan Pengembangan dari Himpunan Mahasiswa I
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://placehold.co/200x200/cccccc/333333%3Ftext%3DLogo%2BHIMAPRODI" alt="Logo HIMAPRODI Teknik Informatika" width="150" height="150"/>
-<h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) 
+<h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
   Teknik Informatika</h1>
   
 <h3>Divisi Riset & Pengembangan (R&D)</h3>
