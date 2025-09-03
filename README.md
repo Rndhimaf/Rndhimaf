@@ -21,24 +21,77 @@ Misi kami adalah:
 
 <br>
 
-Teknologi yang Kami Gunakan
-Kami terbuka untuk berbagai teknologi, namun fokus utama kami saat ini meliputi:
-
-Frontend
-Backend
-Mobile
-Data & AI
-
-
 Ayo Berkolaborasi!
 Kami sangat menyambut kontribusi dari siapa pun yang tertarik. Jangan ragu untuk membuat pull request atau issue jika Anda menemukan bug atau punya ide-ide menarik.
-
-Hubungi kami:
-
-Email: [email@himaprodi.ac.id]
-
-Instagram: [@himaprodi_ti]
-
-Website: [www.himaprodi.ac.id]
-
 Mari tumbuh dan berinovasi bersama!
+
+<h4 align="left">Languages</h4>
+<p align="center">
+  <!-- URL di bawah ini adalah link langsung ke gambar statistik, bukan link pencarian Google -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanSyah2078&layout=compact&locale=id&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
+</p>
+
+<br>
+
+<h4 align="left">Languages, Frameworks, and Tools</h4>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+</div>
+
+<br>
+
+<h4 align="center">Favorite Quotes</h4>
+<table>
+<tr>
+<td width="50%" valign="top">
+<p align="center">
+<i>“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”</i>
+</p>
+</td>
+<td width="50%" valign="top">
+<p align="center">
+<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
+<br>– Martin Fowler
+</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
+<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
+</picture>
