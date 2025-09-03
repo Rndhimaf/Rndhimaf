@@ -18,6 +18,14 @@
 Halo, rekan-rekan pengembang! 👋
 Selamat datang di profil GitHub resmi Divisi Riset & Pengembangan (R&D) dari HIMAPRODI Teknik Informatika. Kami adalah komunitas mahasiswa yang bersemangat untuk mendalami dan mengaplikasikan ilmu pengetahuan di bidang teknologi.
 
+<br>
+
+Ayo Berkolaborasi!
+Kami sangat menyambut kontribusi dari siapa pun yang tertarik. Jangan ragu untuk membuat pull request atau issue jika Anda menemukan bug atau punya ide-ide menarik.
+Mari tumbuh dan berinovasi bersama!
+
+<br>
+
 Misi kami adalah:
 
 > Mendorong inovasi melalui riset dan eksplorasi teknologi baru.
@@ -27,10 +35,6 @@ Misi kami adalah:
 > Mengembangkan potensi diri anggota dalam ekosistem pengembangan perangkat lunak.
 
 <br>
-
-Ayo Berkolaborasi!
-Kami sangat menyambut kontribusi dari siapa pun yang tertarik. Jangan ragu untuk membuat pull request atau issue jika Anda menemukan bug atau punya ide-ide menarik.
-Mari tumbuh dan berinovasi bersama!
 
 <h4 align="left">Languages</h4>
 <p align="center">
