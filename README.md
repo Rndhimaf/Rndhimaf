@@ -1,5 +1,9 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/200x200/cccccc/333333%3Ftext%3DLogo%2BHIMAPRODI" alt="Logo HIMAPRODI Teknik Informatika" width="150" height="150"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rndhimaf/Rndhimaf/main/src/2.png" alt="Header Banner"/>
+</p>
+
+<br>
+
 <h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
   Teknik Informatika</h1>
   
@@ -16,7 +20,9 @@ Selamat datang di profil GitHub resmi Divisi Riset & Pengembangan (R&D) dari HIM
 Misi kami adalah:
 
 > Mendorong inovasi melalui riset dan eksplorasi teknologi baru.
+
 > Membangun proyek nyata yang bermanfaat bagi akademisi maupun masyarakat.
+
 > Mengembangkan potensi diri anggota dalam ekosistem pengembangan perangkat lunak.
 
 <br>
@@ -91,7 +97,7 @@ Mari tumbuh dan berinovasi bersama!
 <br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
-<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rndhimaf/Rndhimaf/output/pacman-contribution-graph-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rndhimaf/Rndhimaf/output/pacman-contribution-graph.svg" />
+<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Rndhimaf/Rndhimaf/output/pacman-contribution-graph.svg" />
 </picture>
