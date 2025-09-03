@@ -85,13 +85,13 @@ Misi kami adalah:
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-<i>“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”</i>
+<i>“Setiap baris kode adalah langkah kecil menuju inovasi besar. Teruslah belajar dan berkreasi, karena masa depan ada di tangan mereka yang berani menciptakan.”</i>
 </p>
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
-<br>– Martin Fowler
+<i>“The best way to predict the future is to invent it.”</i>
+<br>– Alan Kay
 </p>
 </td>
 </tr>
