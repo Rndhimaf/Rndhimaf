@@ -6,8 +6,9 @@
 <br>
 <h3>Divisi Riset & Pengembangan (R&D)</h3>
 <p>🌱 Wadah kreasi, inovasi, dan kolaborasi bagi mahasiswa Teknik Informatika 🌱</p>
-
 </div>
+
+<br>
 
 Halo, rekan-rekan pengembang! 👋
 Selamat datang di profil GitHub resmi Divisi Riset & Pengembangan (R&D) dari HIMAPRODI Teknik Informatika. Kami adalah komunitas mahasiswa yang bersemangat untuk mendalami dan mengaplikasikan ilmu pengetahuan di bidang teknologi.
@@ -18,6 +19,7 @@ Misi kami adalah:
 > Membangun proyek nyata yang bermanfaat bagi akademisi maupun masyarakat.
 > Mengembangkan potensi diri anggota dalam ekosistem pengembangan perangkat lunak.
 
+<br>
 
 Teknologi yang Kami Gunakan
 Kami terbuka untuk berbagai teknologi, namun fokus utama kami saat ini meliputi:
