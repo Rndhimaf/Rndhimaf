@@ -9,7 +9,7 @@
   Teknik Informatika</h1>
   
 <br>
-<h3>Divisi Riset & Pengembangan (R&D)</h3>
+<h3>Divisi Research and Development (R&D)</h3>
 <p>🌱 Wadah kreasi, inovasi, dan kolaborasi bagi mahasiswa Teknik Informatika 🌱</p>
 </div>
 
