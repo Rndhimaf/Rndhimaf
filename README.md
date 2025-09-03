@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/Rndhimaf/Rndhimaf/main/src/2.png" alt="Header Banner"/>
 </p>
 
-<br>
-
 <div align="center">
 <h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
   Teknik Informatika</h1>
