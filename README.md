@@ -4,6 +4,7 @@
 
 <br>
 
+<div align="center">
 <h1>Himpunan Mahasiswa Program Studi (HIMAPRODI) <br>
   Teknik Informatika</h1>
   
