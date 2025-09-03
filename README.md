@@ -14,28 +14,17 @@ Selamat datang di profil GitHub resmi Divisi Riset & Pengembangan (R&D) dari HIM
 
 Misi kami adalah:
 
-Mendorong inovasi melalui riset dan eksplorasi teknologi baru.
+> Mendorong inovasi melalui riset dan eksplorasi teknologi baru.
+> Membangun proyek nyata yang bermanfaat bagi akademisi maupun masyarakat.
+> Mengembangkan potensi diri anggota dalam ekosistem pengembangan perangkat lunak.
 
-Membangun proyek nyata yang bermanfaat bagi akademisi maupun masyarakat.
-
-Mengembangkan potensi diri anggota dalam ekosistem pengembangan perangkat lunak.
-
-Proyek Unggulan Kami
-[Nama Proyek 1]: [Deskripsi singkat tentang proyek, contoh: Aplikasi untuk manajemen tugas kampus.]
-
-[Nama Proyek 2]: [Deskripsi singkat tentang proyek, contoh: Website untuk publikasi riset anggota.]
-
-[Nama Proyek 3]: [Deskripsi singkat tentang proyek, contoh: Alat pembelajaran interaktif berbasis AI.]
 
 Teknologi yang Kami Gunakan
 Kami terbuka untuk berbagai teknologi, namun fokus utama kami saat ini meliputi:
 
 Frontend
-
 Backend
-
 Mobile
-
 Data & AI
 
 
